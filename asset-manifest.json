@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//dede09-ml.github.io/WebCalendar/static/css/main.e3ba4311.css",
+    "main.js": "/https//dede09-ml.github.io/WebCalendar/static/js/main.1c4235f1.js",
+    "static/js/453.ed3810f9.chunk.js": "/https//dede09-ml.github.io/WebCalendar/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/https//dede09-ml.github.io/WebCalendar/index.html",
+    "main.e3ba4311.css.map": "/https//dede09-ml.github.io/WebCalendar/static/css/main.e3ba4311.css.map",
+    "main.1c4235f1.js.map": "/https//dede09-ml.github.io/WebCalendar/static/js/main.1c4235f1.js.map",
+    "453.ed3810f9.chunk.js.map": "/https//dede09-ml.github.io/WebCalendar/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3ba4311.css",
+    "static/js/main.1c4235f1.js"
+  ]
+}
