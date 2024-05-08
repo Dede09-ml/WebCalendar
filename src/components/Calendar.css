@@ -1,0 +1,52 @@
+h2 {
+    text-align: center;
+}
+
+.parent-days {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.parent-days > p {
+    width: 14%;
+    text-align: center;
+}
+
+.parent{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+  
+.child{
+    background-color: beige;
+    width: 14%;
+    box-sizing: border-box;
+    height: 120px;
+    border: 1px solid black;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.date-number {
+    margin-top: 0;
+    margin-right: 3px;
+    text-align: right;
+
+}
+
+.out-dates {
+    color: gray;
+    text-align: right;
+}
+
+.button-event {
+    background-color: lightblue;
+    border: none;
+    border-radius: 5px;
+    justify-content: center;
+    width: 50px;
+    cursor: pointer;
+}
+
